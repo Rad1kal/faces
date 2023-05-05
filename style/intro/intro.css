@@ -1,0 +1,6 @@
+.intro{
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    margin-top: 12px;
+}

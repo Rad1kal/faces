@@ -1,0 +1,7 @@
+.callback{
+    margin-top: 124px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0;  
+}

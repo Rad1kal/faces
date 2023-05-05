@@ -1,0 +1,5 @@
+.header__avatar{
+    background: no-repeat url('/images/Header_Avatar.png');
+    width: 40px;
+    height: 40px;
+}

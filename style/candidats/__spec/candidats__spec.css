@@ -1,0 +1,6 @@
+.candidats__spec {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    line-height: 26px;
+}

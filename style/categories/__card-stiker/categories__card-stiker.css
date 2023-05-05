@@ -1,0 +1,18 @@
+.categories__card-stiker{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    border: 1px solid #F1DF6F;
+    border-radius: 50%;
+    font-size: 16px;
+    line-height: 22px;
+    top: 12px;
+    right: 12px;
+}
+
+.categories__card-stiker::before{
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}

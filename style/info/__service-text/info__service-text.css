@@ -1,0 +1,12 @@
+.info__servce-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 60px;
+
+    width: 742px;
+    height: 740px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}

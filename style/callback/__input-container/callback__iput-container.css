@@ -1,0 +1,8 @@
+.callback__input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    width: 663px;
+}

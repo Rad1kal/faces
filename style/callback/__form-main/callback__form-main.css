@@ -1,0 +1,9 @@
+.callback__form-main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 32px 40px 44px;
+    gap: 32px;
+    width: 743px;
+    height: 466px;
+}

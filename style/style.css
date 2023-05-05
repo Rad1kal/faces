@@ -1,0 +1,144 @@
+
+
+@import url('header/header.css');
+@import url('header/__top/header_top.css');
+@import url('header/__logo/header__logo.css');
+@import url('header/__nav/headder__nav.css');
+@import url('header/__search/header__search.css');
+@import url('header/__account/header__account.css');
+@import url('header/__avatar/header__avatar.css');
+@import url('header/__categories/header__categories.css');
+@import url('header/__more/header__more.css');
+
+@import url('header/__more-dropdown/header__more-dropdown.css');
+@import url('intro/intro.css');
+@import url('intro/__text/intro__text.css');
+@import url('intro/__heading/intro__heading.css');
+@import url('intro/__marked-text/intro__marked-text.css');
+@import url('intro/__subheading/intro__subheading.css');
+@import url('intro/__image/intro__image.css');
+@import url('intro/__button-container/intro__button-container.css');
+
+@import url('categories/categories.css');
+@import url('categories/__cards/categories__cards.css');
+@import url('categories/__card/categories__card.css');
+@import url('categories/__card-stiker/categories__card-stiker.css');
+@import url('categories/__card-stiker-text/categories__card-stiker-text.css');
+
+@import url('info/info.css');
+@import url('info/__service-text/info__service-text.css');
+@import url('info/__candidats-pass/info__candidats-pass.css');
+@import url('info/__service-heading/info__service-heading.css');
+@import url('info/__list-item/info__list-item.css');
+@import url('info/__list-decorator/info__list-decorator.css');
+@import url('info/__list-heading/info__list-heading.css');
+@import url('info/__list-subheading/info__list-subheading.css');
+@import url('info/__candidats-pass-heading/info__candidats-pass-heading.css');
+@import url('info/__extra/info_extra.css');
+@import url('info/__extra/_warn/info__extra_warn.css');
+@import url('info/__price/info__price.css');
+@import url('info/__heading-container/info__heading-container.css');
+
+
+@import url('candidats/candidats.css');
+@import url('candidats/__cards/candidat__cards.css');
+@import url('candidats/__card/candidat__card.css');
+@import url('candidats/__work-plan/candidats__work-plan.css');
+@import url('candidats/__work-plan-label/candidats__work-plan-label.css');
+@import url('candidats/__work-plan-label/_full/candidats__work-plan-label_full.css');
+@import url('candidats/__work-plan-label/_part/candidats__work-plan-label_part.css');
+@import url('candidats/__spec/candidats__spec.css');
+@import url('candidats/__name/candidats__name.css');
+
+
+@import url('callback/callback.css');
+@import url('callback/__form/callback__form.css');
+@import url('callback/__image/callback__image.css');
+@import url('callback/__image-container/callback__image-container.css');
+@import url('callback/__form-main-header/callback__form-heading-header.css');
+@import url('callback/__form-heading/callback__form-heading.css');
+@import url('callback/__form-subheading/callback__form-subheading.css');
+@import url('callback/__form-main/callback__form-main.css');
+@import url('callback/__input-container/callback__iput-container.css');
+@import url('callback/__input/callback__input.css');
+@import url('callback/__button/callback__button.css');
+@import url('callback/__form-footer/callback__form-footer.css');
+
+@import url('footer/footer.css');
+@import url('footer/__nav/footer__nav.css');
+@import url('footer/__list/footer__list.css');
+@import url('footer/__list-body/footer__list-body.css');
+@import url('footer/__copiright-info/footer__copiright-info.css');
+@import url('footer/__list-heading/footer__list-heading.css');
+@import url('footer/__list-item/footer__list-item.css');
+
+
+/* document */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: #111827;
+}
+.container{
+    width: 1440px;
+    background: #F2F2F2;
+    margin: 0 auto;
+}
+
+.content-container{
+    width: 1296px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+input, button{
+    border: none;
+    outline: none;
+}
+
+.separator{
+    height: 2px;
+    background: #E8E8E8;
+}
+
+.main-button{
+    padding: 12px 32px;
+    background: #F1DF6F;
+    border-radius: 26px;
+}
+
+.main-button_yellow-round{
+    padding: 12px 32px;
+    border: 1px solid #F1DF6F;
+    border-radius: 26px;
+}
+
+.main-button_white{
+    background: #FFFFFF;
+    border: 1px solid #F1DF6F;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.h3__heading {
+    font-size: 40px;
+    line-height: 46px;
+    font-weight: 400;
+}

@@ -1,0 +1,9 @@
+.header__account{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 12px;
+    width: 156px;
+    height: 40px;
+}

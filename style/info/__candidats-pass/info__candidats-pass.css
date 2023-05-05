@@ -1,0 +1,10 @@
+.info__candidats-pass{
+    width: 521px;
+    height: 740px;
+    padding: 60px;
+    padding-right: 50px;
+
+    background: #F1DF6F;
+    border-radius: 16px;
+    position: relative;
+}

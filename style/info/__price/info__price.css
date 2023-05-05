@@ -1,0 +1,10 @@
+.info__price{
+    position: absolute;
+    right: -20px;
+    bottom: 23px;
+    font-weight: 700;
+    font-size: 216px;
+    line-height: 45px;
+    letter-spacing: -0.03em;
+    color: #F2F2F2;
+}

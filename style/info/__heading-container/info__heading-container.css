@@ -1,0 +1,5 @@
+.info__heading-container {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}

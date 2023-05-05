@@ -1,0 +1,7 @@
+.candidat__cards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 32px;
+    margin-top: 24px;
+}
